@@ -1,0 +1,8 @@
+One time any local machine
+     *install git
+     *git config --gobal user.name "Umme_Habiba"
+     *check git in local machine --version
+     *git config --gobal user.email "islamrici223@gmail.com"
+
+Required for each project:
+   *git init
